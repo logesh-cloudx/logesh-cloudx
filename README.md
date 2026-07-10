@@ -78,9 +78,9 @@
 
 ## 📊 GitHub Stats
 
-![Logesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=logesh-cloudx&show_icons=true&theme=dark)
+![Logesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=logesh-cloudx&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=logesh-cloudx&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=logesh-cloudx&layout=compact&theme=dark&hide_border=true)
 
 ---
 
