@@ -76,11 +76,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 What I am working on
+- 🔭 Building **URBNDOJO** — Full Stack E-Commerce Platform
+- ⚙️ Completed **Jenkins CI/CD Pipeline** on AWS EC2
+- 🌱 Pursuing **AWS Solutions Architect – Associate**
+- 📊 Experienced in **SaltStack** and **Red Hat Satellite**
+- 💻 Daily working with **AWS, Jenkins, Linux, Zabbix**
 
-![Logesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=logesh-cloudx&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=logesh-cloudx&layout=compact&theme=dark&hide_border=true)
+## 🏆 Achievements
+- ✅ Zero missed critical alerts — Zabbix Telegram alerting system
+- ✅ ~60% reduction in deployment effort — Jenkins CI/CD automation
+- ✅ Live full stack product — URBNDOJO deployed on Vercel + Render
+- ✅ Real production AWS experience — 15+ EC2 instances managed
 
 ---
 
